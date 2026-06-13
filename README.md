@@ -12,9 +12,11 @@ Built for the **BuilderShip** hackathon (Composio · Nebius · Tavily).
 - **Process:** specialized agents fan out to gather market data, news, fundamentals, and sentiment, then a synthesis agent reconciles their findings.
 - **Output:** an investment thesis, key risks, supporting evidence, and a directional signal.
 
-> _Add a screenshot or demo GIF here — it's the single biggest thing that makes the repo land with judges._
->
-> `![Demo](docs/demo.gif)`
+> _Screenshots:
+<img width="1498" height="1023" alt="image" src="https://github.com/user-attachments/assets/e4992119-f3ff-4bb1-92d4-e776e7d163e4" />
+<img width="1485" height="859" alt="image" src="https://github.com/user-attachments/assets/f200e8b0-6419-428e-b879-24e935f2f5fa" />
+
+
 
 ---
 
