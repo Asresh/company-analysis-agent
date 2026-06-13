@@ -14,7 +14,8 @@ Built for the **BuilderShip** hackathon (Composio · Nebius · Tavily).
 
 > _Screenshots:
 <img width="1498" height="1023" alt="image" src="https://github.com/user-attachments/assets/e4992119-f3ff-4bb1-92d4-e776e7d163e4" />
-<img width="1485" height="859" alt="image" src="https://github.com/user-attachments/assets/f200e8b0-6419-428e-b879-24e935f2f5fa" />
+<img width="1400" height="704" alt="image" src="https://github.com/user-attachments/assets/cb533e91-c69f-4312-8725-1ec6ba72e01f" />
+
 
 
 
